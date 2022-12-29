@@ -26,12 +26,9 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-0CF25D?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  
-  
-</div><br/>
+  </div>
+  <br/>
  
-
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PabloGomesz}/count.svg" /></p> 
